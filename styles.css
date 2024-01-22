@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+body#card{
+	width:vw;
+	height:vh;
+	display:block;
+	background-color:blue;
+	box-sizing: border-box;
+	padding:10px 10px 10px 10px;
+	text-align:center;
+}
+image{
+	display:inline-block;
+	height:100px;
+	width:100px;
+}
+button{
+	background-color:blue;
+	color:white;
+	border-radius:10%;
+	width:70px;
+	height:30px;
+	padding:
+}
